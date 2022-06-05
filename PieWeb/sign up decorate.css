@@ -1,0 +1,49 @@
+@charset "utf-8";
+/* CSS Document */
+body{background-color: #ACB3EB}
+.signUpDiv{text-align: center}
+.singUpForm{display: inline-block}
+.userInput{font-size: 18px;border-radius: 15px;border-color: transparent;transition-duration: 300ms;transition-timing-function: ease-in;transition-property: all}
+.userInput:hover{background-color: #979797}
+.userInput:focus{background-color: black;color: white;font-weight: bold;font-size: 25px}
+.Signup{background-color: #0005FF;color:white;border-color: transparent;border-radius: 15px;width: 100%;font-size: 18px;transition-duration: 350ms;transition-timing-function: ease-in;transition-property: all}
+.Signup:hover{background-color: aqua;color: black;font-size: 25px;border-radius: 30px;font-weight: bold}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

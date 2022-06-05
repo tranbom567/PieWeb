@@ -1,0 +1,59 @@
+.logForm{}
+.signup{display: block;margin-left: auto;margin-right: 0;font-size: 25px;font-weight: 700;background-color: transparent;border-color: transparent;transition-duration: 300ms;transition-timing-function: ease-in;transition-property: all}
+.signup:hover{background-color: #00FF34;border-radius: 20px;font-weight: bolder;color: #580BFC}
+.login{display: block;margin-left: auto;margin-right: 0;font-size: 25px;font-weight: 700;background-color: transparent;border-color: transparent;transition-duration: 300ms;transition-timing-function: ease-in;transition-property: all}
+.login:hover{background-color: #0017CF;border-radius: 20px;font-weight: bolder;color: #FFFFFF}
+.title{display: block;margin-left: 3%}
+.account{background-color: transparent;border-color: transparent;font-weight: bold;font-size: 18px;width:20%;border-radius: 15px;transition-duration: 500ms;transition-timing-function: ease-in-out;transition-property: all}
+.account:hover{
+	background-color: #A2A2A2;
+	width: 25%
+}
+.download{background-color: transparent;border-color: transparent;font-weight: bold;font-size: 18px;width:20%;border-radius: 15px;transition-duration: 500ms;transition-timing-function: ease-in-out;transition-property: all}
+.download:hover{
+	background-color: #A2A2A2;
+	width: 25%
+}
+.logout{display: block;margin-left: auto;margin-right: 0;font-size: 25px;font-weight: 700;background-color: transparent;border-color: transparent;transition-duration: 300ms;transition-timing-function: ease-in;transition-property: all}
+.logout:hover{background-color: #000000;border-radius: 20px;font-weight: bolder;color: #FFFFFF}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
